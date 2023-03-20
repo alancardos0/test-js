@@ -54,12 +54,9 @@ _PS: Do overthink this. It is required that your code contemplates every special
 
 Feel free to contact us should you face any blocking issues or difficulties that stop your progress.
 
+---
 
+## What i do?
 
+For this exercise, I did the following, basically a game works in the form of incrementing, and as the condition of our game is that it is at a "speed" of 0.25, so I did it, that is, it is a speed of 0.25 when counting of index 1, if index 1 has a symbol it will take X seconds to reach index 2, generating an extra speed in index 1 due to anticipation, because from what I understood the game without a symbol works in an order of increment and if it has a symbol it increases the speed.
 
-O simbolo especial tem um número minimo  de vezes em que ele deve aparecer em uma coluna
-para começar a alterar a cadencia dela, e um número máximo para encerrar essa cadencia. Cadencia
-nada mais é que o aumento da velocidade em que o simbolo vai aparecer na tela para o usuario.
-
-Minimo de 1 simbolo especial para começar a cadencia
-Maximo de 2 simbolos especiais para encerrar a cadencia
