@@ -56,7 +56,7 @@ Feel free to contact us should you face any blocking issues or difficulties that
 
 ---
 
-## What i do?
+## What did i do?
 
 For this exercise, I did the following, basically a game works in the form of incrementing, and as the condition of our game is that it is at a "speed" of 0.25, so I did it, that is, it is a speed of 0.25 when counting of index 1, if index 1 has a symbol it will take X seconds to reach index 2, generating an extra speed in index 1 due to anticipation, because from what I understood the game without a symbol works in an order of increment and if it has a symbol it increases the speed.
 
